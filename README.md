@@ -95,7 +95,7 @@ ___
 ## **Contact Information**
 ---
 
-* GROUP LEADER: Gaetan Fodjo - gaetanfodjo@cmail.carleton.ca
+* GROUP LEADER: Gaetan Fodjo - gaetanfodjo@gmail.com
 <!-- Credits -->
 ## **Credits**
 ___
