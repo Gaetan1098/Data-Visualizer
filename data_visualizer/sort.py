@@ -1,16 +1,3 @@
-# ECOR 1042 Lab 5 - Team submission
-# Remember to include docstring and type annotations for your functions
-
-# Update "" to list all students contributing to the team work
-__author__ = "Gaetan Fodjo, Kalan Caron, George Resendes-Awada, Kalya Tanumihardja"
-
-# Update "" with your team (e.g. T102)
-__team__ = "T037"
-
-#==========================================#
-# Place your sort_students_age_bubble function after this line
-
-
 def sort_students_age_bubble(list_dicts: list[dict], order: str) -> list[dict]:
     """
     Returns sorted list either ascending or descending, unless age is not in the dictionary. If "Age" is not a key in the dictionary, functions print a message stating the key is not in the dictionary
