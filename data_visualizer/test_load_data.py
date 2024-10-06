@@ -1,26 +1,3 @@
-# ECOR 1042 Lab 4 - team submission
-
-#import check module here
-
-import check
-
-#import load_data module here
-
-import load_data
-
-# Update "" with your the name of the active members of the team
-__author__ = "Gaetan Fodjo, Kalya Tanumihardja, George Resendes-Awada, Kalan Caron"
-
-# Update "" with your student number (e.g., 100100100)
-
-# Update "" with your team (e.g. T-102, use the notation provided in the example)
-__team__ = "T-037"
-
-#==========================================#
-
-# Place test_return_list function here
-
-
 def test_return_list():
     #Complete the function with your test cases
 
