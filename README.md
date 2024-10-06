@@ -33,7 +33,7 @@ T-037GROUP Version 1.0 04/12/23
 <!-- DESCRIPTION -->
 ## **Description**
 _________
-The total softtware below is an accumulation of data for given students. This data inclues the student's age, studytime, failures, health, absences as well as the students grades.
+A Python program for plotting and graphing Excel data, streamlining data visualization and analysis. Implemented using Python’s matplotlib, numpy, and scipy libraries for enhanced graph plotting. Extracted and sorted Excel data into lists and dictionaries using bubble, insertion, and selection algorithms. Conducted software unit tests using Python’s unittest library, enhancing code reliability and functionality.
 
 ### Load Data (Type Module)
 * Set Functions
