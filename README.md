@@ -1,4 +1,4 @@
-T-037GROUP Version 1.0 04/12/23
+Version 1.0 04/12/23
 
 <header id="top"></header>
 
